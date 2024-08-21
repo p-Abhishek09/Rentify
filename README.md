@@ -1,2 +1,2 @@
-#This is the project help to people to Renting items.
+# This is the project help to people to Renting items.
 # Rentify is a user-friendly platform that offers a cost-effective solution for individuals who frequently relocate due to job postings or shifts. By providing the ability to rent a wide variety of items—ranging from furniture and electronics to household appliances and vehicles—Rentify makes it easier for users to access what they need without the burden of ownership. This pocket-friendly approach ensures that users can enjoy the convenience of essential items during their stay, reducing the hassle and expense of constantly purchasing and transporting goods with each move.
